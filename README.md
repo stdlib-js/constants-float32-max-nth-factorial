@@ -59,8 +59,6 @@ To view installation and usage instructions specific to each branch build, be su
 
 ## Usage
 
-<!-- eslint-disable id-length -->
-
 ```javascript
 var FLOAT32_MAX_NTH_FACTORIAL = require( '@stdlib/constants-float32-max-nth-factorial' );
 ```
@@ -68,8 +66,6 @@ var FLOAT32_MAX_NTH_FACTORIAL = require( '@stdlib/constants-float32-max-nth-fact
 #### FLOAT32_MAX_NTH_FACTORIAL
 
 The maximum nth [factorial][factorial] when stored in [single-precision floating-point][ieee754] format.
-
-<!-- eslint-disable id-length -->
 
 ```javascript
 var bool = ( FLOAT32_MAX_NTH_FACTORIAL === 34 );
@@ -83,8 +79,6 @@ var bool = ( FLOAT32_MAX_NTH_FACTORIAL === 34 );
 <section class="examples">
 
 ## Examples
-
-<!-- eslint-disable id-length -->
 
 <!-- eslint no-undef: "error" -->
 

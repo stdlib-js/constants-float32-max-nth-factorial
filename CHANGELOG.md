@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`135d9c7`](https://github.com/stdlib-js/stdlib/commit/135d9c70248a7cf101481bd3a80cb704088782b0) - **docs:** re-enable lint rule _(by Karan Anand)_
 -   [`b4a5ede`](https://github.com/stdlib-js/stdlib/commit/b4a5ede4150565c8d410d8e114e6d182af4231c3) - **feat:** add `constants/float32/max-nth-factorial` _(by Karan Anand)_
 
 </details>
