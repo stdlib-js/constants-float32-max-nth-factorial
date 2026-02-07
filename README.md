@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_MAX_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-nth-factorial@deno/mod.js';
+import FLOAT32_MAX_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-nth-factorial@v0.1.1-deno/mod.js';
 ```
 
 #### FLOAT32_MAX_NTH_FACTORIAL
@@ -65,7 +65,7 @@ var bool = ( FLOAT32_MAX_NTH_FACTORIAL === 34 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_MAX_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-nth-factorial@deno/mod.js';
+import FLOAT32_MAX_NTH_FACTORIAL from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-nth-factorial@v0.1.1-deno/mod.js';
 
 function factorial( n ) {
     var a;
